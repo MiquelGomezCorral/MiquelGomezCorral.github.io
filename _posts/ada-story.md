@@ -2,7 +2,7 @@
 title: ADA Story
 date: 2024-12-03 21:00:00 -500
 categories: [ada]
-tags: [ada]
+tags: [ada] #Tag names should always be lowercase
 ---
 
 # THE STORY OF THE GENRES
@@ -21,6 +21,6 @@ print("AAAAAAAAAAAAAAAAAAAAAA")
 * three
 * four
 
-<img src="../Corcodile.png" alt="Corcodile" width="300"/>
+<img src="../assets/Corcodile.png" alt="Corcodile" width="300"/>
 
 _Corcodile_
