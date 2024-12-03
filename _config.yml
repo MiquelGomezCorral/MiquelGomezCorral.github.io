@@ -16,10 +16,10 @@ timezone: Europe/Zurich
 
 title: ADA Genre Story # the main title
 
-tagline: Let's tell a story about moves Genre # it will display as the subtitle
+tagline: Let's tell a story about moves Genre! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Let's tell a story about moves Genre
+  Let's tell a story about moves Genre!
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
