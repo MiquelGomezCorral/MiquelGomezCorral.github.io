@@ -15,3 +15,12 @@ def THIS_IS_CODE(a):
 
 print("AAAAAAAAAAAAAAAAAAAAAA")
 ```
+
+* one
+* two
+* three
+* four
+
+<img src="../Corcodile.png" alt="Corcodile" width="300"/>
+
+_Corcodile_
