@@ -1,8 +1,8 @@
 ---
 title: ADA Story
 date: 2024-12-03 21:00:00 -500
-categories: [ADA]
-tags: [ADA]
+categories: [ada]
+tags: [ada]
 ---
 
 # THE STORY OF THE GENRES
