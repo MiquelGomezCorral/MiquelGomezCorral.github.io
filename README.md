@@ -1,5 +1,6 @@
 ```bash
 bundle exec jekyll serve
+https://miquelgomezcorral.github.io/posts/ada-story/
 ```
 
 # Chirpy Starter AAAAAAAAAAA
